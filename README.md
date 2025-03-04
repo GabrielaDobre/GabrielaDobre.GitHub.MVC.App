@@ -20,7 +20,7 @@ Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente 
 
 ·Está desarrollada en entorno Eclipse con Java 8. 
 
-·Esta aplicación sigue el desarrollo MVC -  Modelo Vista Controlador.
+·Esta aplicación sigue el paradigma MVC -  Modelo Vista Controlador.
 
 ·Consta de cuatro paquetes, un paquete que contiene la clase principal (main) y los paquetes restantes contienen las clases correspondientes al Modelo - Vista - Controlador. 
 
@@ -39,7 +39,7 @@ Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente 
 
 ·La aplicación se conecta con una base de datos MySQL, que consta de dos tablas diferentes (productos y empresas) alojada en phpMyAdmin.
 
-·Se conecta en local host a través de Xampp Controller Panel.
+·Se conecta en localhost a través de Xampp Controller Panel.
 
 #Imágenes de la base datos:
 
