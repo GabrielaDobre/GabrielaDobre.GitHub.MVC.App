@@ -25,11 +25,10 @@ Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente 
 
 ·Consta de cinco clases:
 
-    - La clase main, donde se ejecuta el programa.
-    - Dos clases que pertenecen al paquete "modelo", la clase encargada de gestionar la conexión con la base de datos; y la clase 
-      que maneja la lógica de cálculo y carga los datos de la base de datos.
-    - Una clase en el paquete "vista", encargada de representar el aspecto de la aplicación (parte visual).
-    - Y una clase que pertenece al paquete "controlador", encargada de manejar la interacción entre la vista y el modelo.
+-La clase main, donde se ejecuta el programa.
+-Dos clases que pertenecen al paquete "modelo", la clase encargada de gestionar la conexión con la base de datos; y la clase que maneja la lógica de cálculo y carga los datos de la base de datos.
+-Una clase en el paquete "vista", encargada de representar el aspecto de la aplicación (parte visual).
+-Y una clase que pertenece al paquete "controlador", encargada de manejar la interacción entre la vista y el modelo.
     
 ·A través de Javax Swing se han construido los paneles, los menús y los botones. Se han diseñado el tipo de fuente, los colores, los fondos de los menús y los botones.
 
@@ -40,5 +39,6 @@ Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente 
 #Imágenes de la base datos:
 
 ![Captura de pantalla 2025-03-04 104631](https://github.com/user-attachments/assets/26251efe-4f17-477a-b79f-b9ccf4915f1d)
+
 ![Captura de pantalla 2025-03-04 104549](https://github.com/user-attachments/assets/c0cbc1a8-a537-4bdf-b84f-29aea408f872)
 
