@@ -5,6 +5,7 @@
 
 Esta aplicación nos permite crear facturas sencillas para nuestros clientes en base a los productos que compren. Nos permite añadir el tipo de IVA, y descuentos (en caso que los haya). Una vez hayamos terminado la factura y calculemos el total, se crea un archivo .txt con los datos del cliente (Nombre de la empresa, CIF y dirección), así como la denominación del producto y el total de la compra.
 
+
 #Imágenes de la interfaz:
 
 ![Captura de pantalla 2025-03-04 101201](https://github.com/user-attachments/assets/ad8bf9ac-da1d-4668-b9f9-49d7c3c7f247)
