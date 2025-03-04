@@ -7,9 +7,11 @@ Esta aplicación nos permite crear facturas sencillas para nuestros clientes en 
 
 #Imágenes de la interfaz:
 
-![Captura de pantalla 2025-03-04 101201](https://github.com/user-attachments/assets/9e632ab3-1294-426d-b02b-e9472ded63a2)
-![Captura de pantalla 2025-03-04 101145](https://github.com/user-attachments/assets/b7f28464-82a3-4702-ae16-b71d9da5fb83)
-![Captura de pantalla 2025-03-04 101137](https://github.com/user-attachments/assets/bbbd7cac-cb8c-42e1-b3a8-776c7ef94bd1)
+![Captura de pantalla 2025-03-04 101201](https://github.com/user-attachments/assets/ad8bf9ac-da1d-4668-b9f9-49d7c3c7f247)
+![Captura de pantalla 2025-03-04 101145](https://github.com/user-attachments/assets/2807e665-9cc2-4dcd-8a7a-c4cbf10608e7)
+![Captura de pantalla 2025-03-04 101137](https://github.com/user-attachments/assets/b3fcb636-9502-4422-9842-19a260074e74)
+![Captura de pantalla 2025-03-04 100936](https://github.com/user-attachments/assets/542de83f-0444-44a0-941e-99d0a1269413)
+
 
 Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente y otro menú desplegable para escoger el producto. En el momento que clicamos sobre el cliente, directamente los campos de CIF y dirección se cumplimentarán; así como el producto, en cuanto lo escojamos, el apartado de precio, se auto cumplimentará. De forma manual podremos indicar si se aplica un descuento al producto y el tipo de IVA. Una vez tengamos todo esto listo, clicamos sobre el botón "calcular total" y nos aparecerá un mensaje que nos indicará que la factura se ha generado correctamente. Ya tendremos nuestra factura lista.
 
@@ -37,6 +39,6 @@ Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente 
 
 #Imágenes de la base datos:
 
-![Captura de pantalla 2025-03-04 104631](https://github.com/user-attachments/assets/f2f4567a-8d25-4405-acc4-8e96ae2cdf37)
+![Captura de pantalla 2025-03-04 104631](https://github.com/user-attachments/assets/26251efe-4f17-477a-b79f-b9ccf4915f1d)
+![Captura de pantalla 2025-03-04 104549](https://github.com/user-attachments/assets/c0cbc1a8-a537-4bdf-b84f-29aea408f872)
 
-![Captura de pantalla 2025-03-04 104549](https://github.com/user-attachments/assets/69feec4c-9460-4a75-9975-53d514529068)
