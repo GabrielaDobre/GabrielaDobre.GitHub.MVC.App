@@ -26,9 +26,13 @@ Al abrir la aplicación tenemos dos menús desplegables para escoger el cliente 
 ·Consta de cinco clases:
 
 -La clase main, donde se ejecuta el programa.
+
 -Dos clases que pertenecen al paquete "modelo", la clase encargada de gestionar la conexión con la base de datos; y la clase que maneja la lógica de cálculo y carga los datos de la base de datos.
+
 -Una clase en el paquete "vista", encargada de representar el aspecto de la aplicación (parte visual).
+
 -Y una clase que pertenece al paquete "controlador", encargada de manejar la interacción entre la vista y el modelo.
+
     
 ·A través de Javax Swing se han construido los paneles, los menús y los botones. Se han diseñado el tipo de fuente, los colores, los fondos de los menús y los botones.
 
